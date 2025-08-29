@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 TCS Stock Analysis & Prediction Dashboard
 
 > **A Professional-Grade Stock Analysis Platform with ML-Powered Predictions and Interactive Visualizations**
@@ -472,3 +473,6 @@ streamlit run dashboard/app.py
 **📈 Happy Analyzing! 📊**
 
 > *"The stock market is filled with individuals who know the price of everything, but the value of nothing."* - Philip Fisher
+=======
+# TCS-Stock-Data---Live-and-Latest
+>>>>>>> c34d318b79c688af8b877737630cc42e5c895332
