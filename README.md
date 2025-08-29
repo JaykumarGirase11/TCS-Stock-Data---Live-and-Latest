@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🚀 TCS Stock Analysis & Prediction Dashboard
 
 > **A Professional-Grade Stock Analysis Platform with ML-Powered Predictions and Interactive Visualizations**
@@ -392,14 +391,6 @@ CMD ["streamlit", "run", "dashboard/app.py"]
 
 ---
 
-## 📞 **Support & Community**
-
-### 🆘 **Getting Help**
-- **📖 Documentation**: Check the `/docs` folder
-- **🐛 Issues**: Report bugs via GitHub Issues
-- **💬 Discussions**: Join community discussions
-- **📧 Contact**: Reach out for questions
-
 ### 🌟 **Feature Requests**
 Have ideas for improvements? We'd love to hear them!
 1. Open a **GitHub Issue**
@@ -430,18 +421,6 @@ Have ideas for improvements? We'd love to hear them!
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
-```
-MIT License - Free for commercial and personal use
-- ✅ Commercial use allowed
-- ✅ Modification allowed  
-- ✅ Distribution allowed
-- ✅ Private use allowed
-- ❌ No warranty provided
-- ❌ No liability accepted
-```
-
----
-
 ## 🎯 **Future Roadmap**
 
 ### 🚀 **Planned Features**
@@ -461,15 +440,7 @@ MIT License - Free for commercial and personal use
 - Economic indicators correlation
 - Risk management tools
 - Automated trading signals
-
----
-
-**🚀 Ready to explore the world of stock analysis? Launch your dashboard and start analyzing!**
-
-```bash
-streamlit run dashboard/app.py
-```
-
+- 
 **📈 Happy Analyzing! 📊**
 
 > *"The stock market is filled with individuals who know the price of everything, but the value of nothing."* - Philip Fisher
